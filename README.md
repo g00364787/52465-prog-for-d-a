@@ -11,6 +11,8 @@
 ### Files in this directory are
 ### 1. GMIT--PROG-D-A-ASSESSMENT--20181031A.ipynb = Jupyter notebook file (Anaconda3 64bit) 
 ### 2. GMIT--PROG-D-A-ASSESSMENT--20181031B.ipynb = Jupyter notebook file (Anaconda3 64bit) 
+### (the highest date and revision letter contains the latest updated notebook file)
+
 ### 3. README.MD                                  = This file
 ### 4. .gitignore                                 = List of files that GIT will not process/recognise
 ### 5. LICENSE                                    = GNU License
