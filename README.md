@@ -14,10 +14,10 @@
 ###  4. GMIT--PROG-D-A--Assigment2018-LOGFILE.TXT 	 = Log file of certain activities for this assignment
 ###  5. GMIT--PROG-D-A-ASSESSMENT--20181031A-Assignment 2018.docx = an MS word cut&paste of original assignment PDF
 	
-### The following Jupyter Notebook files are present.
-### These files were written using Anaconda 64 bit, Jupyter notebook.
-### The version of the notebook server is 5.0.0 and is running on:
-### Python 3.6.3 |Anaconda, Inc.| (default, Oct 15 2017, 03:27:45) [MSC v.1900 64 bit (AMD64)]
+### # The following Jupyter Notebook files are present.
+### # These files were written using Anaconda 64 bit, Jupyter notebook.
+### # The version of the notebook server is 5.0.0 and is running on:
+### # Python 3.6.3 |Anaconda, Inc.| (default, Oct 15 2017, 03:27:45) [MSC v.1900 64 bit (AMD64)]
 
 ### The following Jupyter Notebook files are present.
 ###  6. GMIT--PROG-D-A--Assigment2018-20181014a.ipynb = Jupyter notebook file (Anaconda3 64bit) 
