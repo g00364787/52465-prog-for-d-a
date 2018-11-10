@@ -1,0 +1,73 @@
+.LOG
+22:28 14/10/2018
+
+COURSE.ID=52465 -- PROGRAMMING FOR DATA ANALYSIS
+STUDENT.ID=G00364787
+STUDENT.NAME=PAUL KEARNEY
+
+
+LOG FILE OF ACTIVITIES
+
+Programming for Data Analysis
+Assignment 2018
+DATE DUE ON/BEFORE 11 NOV 2018
+
+This is a log file created to track/record activity related to the assignment.
+
+
+FOR INFO:
+The .LOG at the top will cause NOTEPAD to auto-insert the date and time on a new line when the file is opened. This is handy for keeping track of the date&time.
+
+
+20:00 10/11/2018
+Not much logging done this time.
+Used code from the FUND-in-D-A to do this section which itself used code from last semesters project code.
+So most of the activity for creatign most of the code was doen last semester even though I didnt know it at the time.
+
+Used the reference area to record some activity.
+
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.f.html#numpy.random.f   
+visisted: 20181031   
+for info on the parameters needed for the F funciton - input values Degrees of freedom 
+  
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.normal.html#numpy.random.normal   
+vistited: 20181031   
+For info on what parameters were required for random.normal function   
+  
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.chisquare.html#numpy.random.chisquare   
+Visited: 20181031   
+To obtain info on the input parameters for the ChiSquared function   
+  
+https://docs.scipy.org/doc/numpy/reference/generated/numpy.random.uniform.html#numpy.random.uniform   
+visited: 20181031   
+To obtain info on the input parameters for the 'uniform' function   
+ 
+https://stackoverflow.com/questions/104420/how-to-generate-all-permutations-of-a-list-in-python   
+visited: 20181108   
+To obtain info on how PYTHON deals with permutations   
+ 
+https://docs.python.org/2/library/itertools.html#itertools.permutations   
+visisted: 20181108   
+To obtain info on the PYTHON function that generates permutations.   
+  
+https://www.statisticshowto.datasciencecentral.com/beta-distribution/   
+visted: 20181108   
+To obtain information about the Beta function.  
+
+
+Revisited code and re-arranged some code.
+Added in extra graphs the demonstrate each function/distribution
+
+Visited other websites to get more info.
+
+https://docs.scipy.org/doc/numpy/reference/generated
+visisted: 20181110
+For info on the various distributions available in python.
+
+https://www.slideshare.net/mhsgeography/chi-square-worked-example
+visited: 20181110
+To obtain worked example of ChiSquared worked example for info on Degrees-of-Freedom
+
+After all this activity, I can see why the number of bookshops is dwindling.
+The two books I bought have only been opened twice - the rest has been off the internet
+and if I looked hard enough I could probably find the books as a downlaodable PDF.
