@@ -27,7 +27,8 @@
 ### 10. GMIT--PROG-D-A-ASSESSMENT--20181108A.ipynb = Jupyter notebook file (Anaconda 64bit) 
 ### 11. GMIT--PROG-D-A-ASSESSMENT--20181110A.ipynb = Jupyter notebook file (Anaconda 64bit) 
    
-### The latest version of the assignment is:
+### Latest version of Python Jupyter Notebook file is:
 ### 12. GMIT--PROG-D-A-ASSESSMENT--20181110B.ipynb = Jupyter notebook file (Anaconda 64bit) 
+
 ### (the highest date and revision letter contains the latest updated notebook file)
 ### (I do this when creating when creating presentations/projects/reports to reduce data loss in the event of a hard disk fail)
