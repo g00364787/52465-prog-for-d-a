@@ -18,11 +18,11 @@
 ###  4. GMIT--PROG-D-A--Assigment2018-LOGFILE.TXT 	 = Log file of certain activities for this assignment
 ###  5. GMIT--PROG-D-A-ASSESSMENT--20181031A-Assignment 2018.docx = an MS word cut&paste of original assignment PDF
 ###  6. GMIT--PROG-D-A-ASSESSMENT--20181110B.ipynb = Jupyter notebook file (Anaconda 64bit) 
-   
-   
-   
-   
-      
+.   
+.   
+.   
+.   
+.      
 ### Older Python Jupyter Notebook files are present.
 ###  7. GMIT--PROG-D-A--Assigment2018-20181014a.ipynb = Jupyter notebook file (Anaconda3 64bit) 
 ###  8. GMIT--PROG-D-A-ASSESSMENT--20181031A.ipynb = Jupyter notebook file (Anaconda 64bit) 
