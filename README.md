@@ -30,3 +30,4 @@
 ### The latest version of the assignment is:
 ### 12. GMIT--PROG-D-A-ASSESSMENT--20181110B.ipynb = Jupyter notebook file (Anaconda 64bit) 
 ### (the highest date and revision letter contains the latest updated notebook file)
+### (I do this when creating when creating presentations/projects/reports to reduce data loss in the event of a hard disk fail)
