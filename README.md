@@ -26,5 +26,7 @@
 ###  9. GMIT--PROG-D-A-ASSESSMENT--20181101A.ipynb = Jupyter notebook file (Anaconda 64bit) 
 ### 10. GMIT--PROG-D-A-ASSESSMENT--20181108A.ipynb = Jupyter notebook file (Anaconda 64bit) 
 ### 11. GMIT--PROG-D-A-ASSESSMENT--20181110A.ipynb = Jupyter notebook file (Anaconda 64bit) 
+   
+### The latest version of the assignment is:
 ### 12. GMIT--PROG-D-A-ASSESSMENT--20181110B.ipynb = Jupyter notebook file (Anaconda 64bit) 
 ### (the highest date and revision letter contains the latest updated notebook file)
