@@ -15,9 +15,9 @@
  1. README.MD                                  = This file
  2. .gitignore                                 = List of files that GIT will not process/recognise
  3. LICENSE                                    = GNU License
- 4. GMIT--PROG-D-A--Assigment2018-LOGFILE.TXT 	 = Log file of certain activities for this assignment
- 5. GMIT--PROG-D-A-ASSESSMENT--20181031A-Assignment 2018.docx = an MS word cut&paste of original assignment PDF
- 6. GMIT--PROG-D-A-ASSESSMENT--20181110B.ipynb = Jupyter notebook file (Anaconda 64bit) 
+ 4. GMIT--PROG-D-A-ASSESSMENT--20181110B.ipynb = Jupyter notebook file (Anaconda 64bit) 
+ 5. GMIT--PROG-D-A--Assigment2018-LOGFILE.TXT 	 = Log file of certain activities for this assignment
+ 6. GMIT--PROG-D-A-ASSESSMENT--20181031A-Assignment 2018.docx = an MS word cut&paste of original assignment PDF
 .   
 .   
 .   
